@@ -1,0 +1,11 @@
+Umesh Karn
+DevOps Engineer soon to be
+
+
+How to exit is a questin now.
+
+
+I have found a way to exit from vim
+ type :wq
+
+
