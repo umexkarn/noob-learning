@@ -8,4 +8,6 @@ How to exit is a questin now.
 I have found a way to exit from vim
  type :wq
 
+This is a testing where I can be developer and then can essentially breakthrough from support role. 
+:wq
 
